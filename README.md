@@ -6,8 +6,8 @@ This repository includes examples of neural networks and convolutional neural ne
       - Test the number of latent space dimensions and get the minimum representation size with which an image could be properly reconstructed.
       - This script was written during the 2021 Neuromatch Academy Deep Learning course.
       - [Project presentation] (https://github.com/mirentamayoelizalde/DL_examples/blob/main/Convolutional_okapis_abstract_NMA_DL_2021.pptx)
-  * [Neural Network for image classification](https://github.com/mirentamayoelizalde/DL_examples/blob/main/Deep_NN_cat_noncat_images.ipynb)
-     - Build a deep neural network for image classification (cat vs non-cat).
+  * [NN for image classification](https://github.com/mirentamayoelizalde/DL_examples/blob/main/Deep_NN_cat_noncat_images.ipynb)
+     - Build a deep NN for image classification (cat vs non-cat).
      - From Coursera's Deep Learning Specialisation (DeepLearning.AI, Andrew Ng), Course 1: Neural Networks and Deep Learning
   * [NN for Fashion MNIST  classification](https://github.com/mirentamayoelizalde/DL_examples/blob/main/NNs_fashion_MNIST.ipynb)
      - Fashion MNIST dataset classification
